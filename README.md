@@ -51,7 +51,7 @@ This project is a simple web application developed using **HTML**, **CSS**, **Bo
    ```
    npm run dev
    ```
-   The project will be accessible at: [Class Trainees](https://bouglacemarouane.github.io/Application-Simple-Gestion-Stagiaires/)
+   The project will be accessible at: [Training management](https://bouglacemarouane.github.io/trainee-hub/)
 
 ## ***🤝 Contribute :***
 
