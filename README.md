@@ -33,7 +33,7 @@ This project is a simple web application developed using **HTML**, **CSS**, **Bo
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Student-Management-System/blob/4a10aa592089f7f4e8df72452946b8af28895d43/images/login.png" alt="image alt"/>
   <br>
-  <em>User Login - A secure login page for both students and administrators, with an option to remember the email.</em>
+  <em>After adding a trainee, their details are displayed as a card in the trainee list.</em>
 </p><br>
 
 ### Login Page
