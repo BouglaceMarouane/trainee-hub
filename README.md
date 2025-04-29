@@ -29,7 +29,7 @@ This project is a simple web application developed using **HTML**, **CSS**, **Bo
   <em>When the "+" button is clicked, the registration form is displayed. The form allows the user to input his informations.</em>
 </p><br>
 
-### Login Page
+### Display Page (After Adding a Trainee)
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Student-Management-System/blob/4a10aa592089f7f4e8df72452946b8af28895d43/images/login.png" alt="image alt"/>
   <br>
