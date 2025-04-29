@@ -38,7 +38,7 @@ This project is a simple web application developed using **HTML**, **CSS**, **Bo
 
 ### Delete Confirmation Page
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Student-Management-System/blob/4a10aa592089f7f4e8df72452946b8af28895d43/images/login.png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/trainee-hub/blob/190266dd8142bd1b5898243c24e9634ec6f1718b/image/delete.png" alt="image alt"/>
   <br>
   <em>When the delete button on a trainee card is clicked, a confirmation page is displayed.</em>
 </p><br>
