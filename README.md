@@ -31,7 +31,7 @@ This project is a simple web application developed using **HTML**, **CSS**, **Bo
 
 ### Display Page (After Adding a Trainee)
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Student-Management-System/blob/4a10aa592089f7f4e8df72452946b8af28895d43/images/login.png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/trainee-hub/blob/f752ae8aaee5c6a41f5584c3f3097c000b7d30d8/image/update.png" alt="image alt"/>
   <br>
   <em>After adding a trainee, their details are displayed as a card in the trainee list.</em>
 </p><br>
