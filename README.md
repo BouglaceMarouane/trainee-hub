@@ -77,7 +77,7 @@ If you encounter issues or want to request a new feature, please open an issue i
 
 ## ***⭐ Support :***
 
-Si vous aimez ce projet, n'oubliez pas de laisser une ⭐ sur GitHub. Merci et bon code ! 🚀
+If you like this project, don't forget to leave a ⭐ on GitHub. Thank you and happy coding! 🚀
 
 ## ***📬 Stay in Touch :***
 
