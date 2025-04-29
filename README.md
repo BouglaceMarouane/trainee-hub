@@ -24,7 +24,7 @@ This project is a simple web application developed using **HTML**, **CSS**, **Bo
 
 ### Form Page (Add New Trainee)
 <p align="center">
-  <img src="images/add_stg.png" alt="Add Trainee" />
+  <img src="https://github.com/BouglaceMarouane/trainee-hub/blob/4b25beeddfa833204674f99978c8577b703db6c9/image/form.png" alt="Add Trainee" />
   <br>
   <em>When the "+" button is clicked, the registration form is displayed. The form allows the user to input his informations.</em>
 </p><br>
