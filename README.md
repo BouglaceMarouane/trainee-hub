@@ -51,3 +51,21 @@ This project is a simple web application developed using **HTML**, **CSS**, **Bo
    ```
    npm run dev
    ```
+   The project will be accessible at: [Class Trainees](https://bouglacemarouane.github.io/Application-Simple-Gestion-Stagiaires/)
+
+## ***🤝 Contribute :***
+
+Contributions to this project are welcome! If you have suggestions, improvements, or bug fixes, please submit a pull request. Make sure to follow coding conventions and maintain consistent styles.
+
+If you encounter issues or want to request a new feature, please open an issue in the repository with as much detail as possible.
+
+## ***⭐ Support :***
+
+Si vous aimez ce projet, n'oubliez pas de laisser une ⭐ sur GitHub. Merci et bon code ! 🚀
+
+## ***📬 Stay in Touch :***
+
+- 📧 Email: bouglacemarouane@gmail.com  
+- 🌐 GitHub: [Bouglace Marouane](https://github.com/BouglaceMarouane)
+- 🌍 LinkedIn: [Marouane Bouglace Linkedin](https://www.linkedin.com/in/marouane-bouglace-68b17333b/)
+
