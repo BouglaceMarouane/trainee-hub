@@ -15,11 +15,11 @@ This project is a simple web application developed using **HTML**, **CSS**, **Bo
 
 ## ***📷 Screenshots :***
 
-### Home Page (Initial State
+### Home Page (Initial State)
 <p align="center">
   <img src="images/hoem_page.png" alt="Home Page" />
   <br>
-  <em>This is the home page where users can view the list of trainees and add new ones.</em>
+  <em>he home page displays the header with the title "List of Trainees" and a green "+" button to add a new trainee. Below the header, there is a section for categories (specialties) and a section for displaying trainee cards. Initially, the trainee list is empty.</em>
 </p><br>
 
 ### Login Page
