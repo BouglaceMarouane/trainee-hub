@@ -15,16 +15,32 @@ This project is a simple web application developed using **HTML**, **CSS**, **Bo
 
 ## ***📷 Screenshots :***
 
+### Home Page (Initial State
 <p align="center">
   <img src="images/hoem_page.png" alt="Home Page" />
   <br>
   <em>This is the home page where users can view the list of trainees and add new ones.</em>
 </p><br>
 
+### Login Page
 <p align="center">
   <img src="images/add_stg.png" alt="Add Trainee" />
   <br>
   <em>When a trainee is added, their details are processed, and the trainee list is updated dynamically with their ranking.</em>
+</p><br>
+
+### Login Page
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/Student-Management-System/blob/4a10aa592089f7f4e8df72452946b8af28895d43/images/login.png" alt="image alt"/>
+  <br>
+  <em>User Login - A secure login page for both students and administrators, with an option to remember the email.</em>
+</p><br>
+
+### Login Page
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/Student-Management-System/blob/4a10aa592089f7f4e8df72452946b8af28895d43/images/login.png" alt="image alt"/>
+  <br>
+  <em>User Login - A secure login page for both students and administrators, with an option to remember the email.</em>
 </p><br>
 
 ## ***🛠️ Technologies Used :***
