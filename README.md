@@ -17,7 +17,7 @@ This project is a simple web application developed using **HTML**, **CSS**, **Bo
 
 ### Home Page (Initial State)
 <p align="center">
-  <img src="images/hoem_page.png" alt="Home Page" />
+  <img src="https://github.com/BouglaceMarouane/trainee-hub/blob/4b25beeddfa833204674f99978c8577b703db6c9/image/home.png" alt="Home Page" />
   <br>
   <em>he home page displays the header with the title "List of Trainees" and a green "+" button to add a new trainee. Below the header, there is a section for categories (specialties) and a section for displaying trainee cards. Initially, the trainee list is empty.</em>
 </p><br>
