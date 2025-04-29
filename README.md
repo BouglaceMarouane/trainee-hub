@@ -26,7 +26,7 @@ This project is a simple web application developed using **HTML**, **CSS**, **Bo
 <p align="center">
   <img src="images/add_stg.png" alt="Add Trainee" />
   <br>
-  <em>When a trainee is added, their details are processed, and the trainee list is updated dynamically with their ranking.</em>
+  <em>When the "+" button is clicked, the registration form is displayed. The form allows the user to input his informations.</em>
 </p><br>
 
 ### Login Page
