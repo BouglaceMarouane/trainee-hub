@@ -85,3 +85,6 @@ If you like this project, don't forget to leave a ⭐ on GitHub. Thank you and h
 - 🌐 GitHub: [Bouglace Marouane](https://github.com/BouglaceMarouane)
 - 🌍 LinkedIn: [Marouane Bouglace Linkedin](https://www.linkedin.com/in/marouane-bouglace-68b17333b/)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
